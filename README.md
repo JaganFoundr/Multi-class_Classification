@@ -145,6 +145,6 @@ Special thanks to the open-source community for tools and resources enabling thi
 ## **📬 Connect with Me!**  
 For collaborations, ideas, or feedback, feel free to reach out!  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jagannath-harindranath-492a71238/)  
-- **GitHub:** [Your GitHub Profile](https://github.com/JaganFoundr)  
+- **GitHub:** [GitHub Profile](https://github.com/JaganFoundr)  
 
 🌟 **#PyTorch #DeepLearning #AI #MachineLearning #MulticlassClassification #NeuralNetworks**  
