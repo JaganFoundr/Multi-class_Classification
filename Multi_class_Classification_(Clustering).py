@@ -151,6 +151,16 @@ plt.grid()
 plt.tight_layout()
 plt.show()
 
+# 🎨 Visualizing Decision Boundaries (After Training)
+plt.figure(figsize=(12, 6))
+plt.subplot(1, 2, 1)
+plt.title("Train Data (Before Training)")
+plot_decision_boundary(model, x_train, y_train)
+plt.subplot(1, 2, 2)
+plt.title("Test Data (Before Training)")
+plot_decision_boundary(model, x_test, y_test)
+plt.show()
+
 # 🔮 Final Predictions (After Training)
 model.eval()
 with torch.inference_mode():
